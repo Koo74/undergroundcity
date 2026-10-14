@@ -28,7 +28,12 @@
 **UNDERGROUNDCITY** is a next-generation **GeoAI decision-support platform** for identifying optimal locations for underground city development across Malaysia. It combines **live satellite data**, **seismic records**, **geological formations**, and **multi-criteria spatial analysis** to rank candidate sites — all with an interactive **cyberpunk-styled interface**.
 
 Whether you're an urban planner, geologist, researcher, student, or simply curious about subterranean infrastructure, this tool gives you **real data-driven insights** in seconds.
-
+<a href="https://www.buymeacoffee.com/stargazex" target="_blank">
+  <img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" 
+       alt="Buy Me A Coffee" 
+       height="41" 
+       width="174">
+</a>
 ---
 
 ## ✨ Key Features
